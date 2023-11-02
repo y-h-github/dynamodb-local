@@ -1,0 +1,18 @@
+{
+  "name": "dynamodb-test",
+  "version": "1.0.0",
+  "description": "dynamodb demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/ts-node ./src/dynamodb.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.438.0",
+    "@aws-sdk/lib-dynamodb": "^3.438.0",
+    "@aws-sdk/util-dynamodb": "^3.438.0",
+    "prettier": "^3.0.3",
+    "ts-node": "^10.9.1"
+  }
+}

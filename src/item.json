@@ -1,0 +1,17 @@
+[
+  {
+    "CustomerId": "A001",
+    "OrderNumber": 1,
+    "Product": "apple",
+    "Price": 100,
+    "Date": "2023-11-01 00:00:01"
+  },
+  {
+    "CustomerId": "A002",
+    "OrderNumber": 2,
+    "Product": "orange",
+    "Price": 200,
+    "Date": "2023-11-01 00:00:02",
+    "Note": "即日配送"
+  }
+]
